@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garvit Singh Rathore - **17**
-- 👀 I’m interested in **JavaScript**, **C** and some **Visual Basics**, **Python** `(A bit python and VB)`
+- 👀 I’m interested in **JavaScript**, **C** and some **Visual Basics**, **Python**
 - 🌱 I’m currently learning **Java**, **C++** and **C**
 - 📫 If you want to contact me you can contact on discord and Instagram, *Discord I'd* - `𝐾𝑉𝐴メGARVIT#9540 ` *Instagram I'd* - `garvit_s_r`
 
