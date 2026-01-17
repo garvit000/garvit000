@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Garvit Singh Rathore - **17**
-- 👀 I’m interested in **JavaScript**, **C** and some **Visual Basics**, **Python**
-- 🌱 I’m currently learning **Java**, **C++** and **C**
+- 👋 Hi, I’m Garvit Singh Rathore - **19**
+- 👀 I’m interested in **JavaScript/TypeScript**, **C/C++** and **Python**
+- 🌱 I’m currently learning **Cloud Architecture**.
 - 📫 If you want to contact me you can contact on discord and Instagram, *Discord I'd* - `gsr_here ` *Instagram I'd* - `garvit_s_r`
