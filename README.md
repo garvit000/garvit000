@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Garvit Singh Rathore - **19**
-- 👀 I’m interested in **JavaScript/TypeScript**, **C/C++**, **Python** and **IOT**
-- 🌱 I’m currently learning **Cloud Architecture**.
-- 📫 If you want to contact me you can contact on discord and Instagram, *Discord I'd* - `gsr_here ` *Instagram I'd* - `garvit_s_r`
+- 🤖 I like to contribute to open-source softwares!
+- 👀 Languages I like to work in: **JavaScript/TypeScript**, **C/C++**, **Python** and **IOT**
+- 🌱 I’m currently learning **Cloud Architecting**.
+- 📫 If you want to contact me you can contact on discord , *Discord I'd* - `gsr_here` or email at gzone2622@gmail.com
