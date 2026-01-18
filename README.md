@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garvit Singh Rathore - **19**
 - 🤖 I like to contribute to open-source softwares!
-- 👀 Languages I like to work in: **JavaScript/TypeScript**, **C/C++**, **Python** and **IOT**
+- 👀 Languages I like to work in: **JavaScript/TypeScript**, **C/C++** and **Python**.
 - 🌱 I’m currently learning **Cloud Architecting**.
 - 📫 If you want to contact me you can contact on discord , *Discord I'd* - `gsr_here` or email at gzone2622@gmail.com
